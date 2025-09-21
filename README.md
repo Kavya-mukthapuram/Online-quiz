@@ -1,5 +1,4 @@
 # Online-quiz
-# Quiz App
 
 A **lightweight, interactive quiz application** for students and educators to practice and test their knowledge. This app provides instant feedback, question reviews, and supports multiple-choice questions with categories and difficulty levels.
 
