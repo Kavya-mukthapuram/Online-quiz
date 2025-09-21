@@ -30,4 +30,4 @@ A **lightweight, interactive quiz application** for students and educators to pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Kavya-mukthapuram/quiz-app.git
+git clone https://github.com/Kavya-mukthapuram/Online-quiz
